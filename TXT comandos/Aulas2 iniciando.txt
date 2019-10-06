@@ -1,0 +1,10 @@
+executando no terminal: 
+> mkdir backend    // criar a pasta "backend"
+> yarn init -y      //criar package.json
+> ls              // lista o arquivos da pasta
+
+VSCODE terminal:
+> yarn add express // isntalar dependencia express etc.
+
+criar pasta SRC no projeto
+dentro criar server.js
