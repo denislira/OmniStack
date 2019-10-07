@@ -8,3 +8,18 @@ VSCODE terminal:
 
 criar pasta SRC no projeto
 dentro criar server.js
+
+VSCODE
+> yarn add nodemon -D     // a tag '-D' é pra ser usado enquanto em desenvolvimento 
+
+#Dentro de package.json ciar:
+ "scripts": {
+    "dev": "nodemon src/server.js"
+  },
+     
+//apartir de agora só executar 'yarn dev' no terminal que executa nodemon
+
+# instala programa de teste POST GET https://insomnia.rest/
+
+# Depois de criar instalar MongoDB (banco de dados) instala o mongoose na api VCCODE
+> yarn add mongoose
