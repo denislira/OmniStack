@@ -19,7 +19,12 @@ VSCODE
      
 //apartir de agora só executar 'yarn dev' no terminal que executa nodemon
 
-# instala programa de teste POST GET https://insomnia.rest/
+# instala programa de teste POST GET JSON etc https://insomnia.rest/
 
 # Depois de criar instalar MongoDB (banco de dados) instala o mongoose na api VCCODE
 > yarn add mongoose
+
+depois de fazer todas routes, controllers, instala o MULTER para upload de imagens
+
+
+
