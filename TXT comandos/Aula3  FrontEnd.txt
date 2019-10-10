@@ -1,0 +1,5 @@
+Criando novo projeto Frontend react
+Terminal do OS
+> yarn create react-app fontend
+ou no npm
+> npx create-react-app fontend
