@@ -5,4 +5,25 @@ ou no npm
 > npx create-react-app frontend
 
 para executar react VSCODE
-> start
+> yarn start
+
+
+criador de código html automático no java
+colocar no Settings.json do VSCODE
+
+"emmet.syntaxProfiles":{ "javascript": "jsx",},
+"emmet.includeLanguages": { "javascript": "javascriptreact",}
+
+Instalar extensão Color Hignlight no VSCODE para gerenciar cores no CSS
+ele abre caixa de seleção de cores quando tiver #fff.
+
+instala yarn Axios para chamadas API
+> yarn add axios
+
+instala CORS backend para teste do envio do formulario via console do navegador em ispecionar
+backend> yarn add cors
+
+e importa no Server.js do Backend e coloca app.use(cors());
+
+VOLTA AO FRONT, no terminal instala Sistema de rotas do react router dom
+frontend> yarn add react-router-dom
