@@ -3,3 +3,6 @@ Terminal do OS
 > yarn create react-app frontend
 ou no npm
 > npx create-react-app frontend
+
+para executar react VSCODE
+> start
